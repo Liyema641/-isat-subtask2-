@@ -44,7 +44,7 @@ void decimalToBinary() {
         cout << "Enter a positive decimal number: ";
         cin >> input;
         if (isValidInput(input, 10)) break;
-        cout << "❌ Invalid format. Expected Decimal (0-9).\n";
+        cout << " Invalid format. Expected Decimal (0-9).\n";
     }
 
     unsigned long long decimal = stoull(input);
