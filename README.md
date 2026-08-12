@@ -3,7 +3,7 @@
 Name: Liyema
 Surname: Gobodwana
 12.08.2026
-Purpose: Calculate decimal to binary
+Purpose: Calculate decimal to Binary
 */
 
 #include <iostream>
